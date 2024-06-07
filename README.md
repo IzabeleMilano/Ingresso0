@@ -1,6 +1,8 @@
 
-![image](https://github.com/IzabeleMilano/Ingresso/assets/171983275/f1141a62-2f1d-45c0-a8cb-99c07c90a1bb)
 
+<p align="center">
+  <img alt="Preview do projeto desenvolvido." src="assets/proj4.png" width="100%">
+</p>
 
 ## 🚀 Tecnologias
 
@@ -24,3 +26,4 @@ Seleção do tipo de ingresso.
 Escolha da quantidade de ingressos a serem comprados.
 Exibição da quantidade disponível de cada tipo de ingresso.
 Atualização dinâmica da quantidade de ingressos após a compra.
+
